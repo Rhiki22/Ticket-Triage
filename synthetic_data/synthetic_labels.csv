@@ -1,0 +1,281 @@
+ticket_id,title,preview,true_category
+SYN-0001,Whole team locked out,"The whole team is locked out of the SharePoint, urgent.",Access / Password
+SYN-0002,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0003,Laptop and password,My laptop screen is cracked and I also forgot my password.,Hardware
+SYN-0004,Not receiving anything,People say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0005,Thrown out of expenses portal,Every time I open the CRM it sends me back to the start page.,Access / Password
+SYN-0006,Invoice looked off,I paid an invoice today but the supplier says the bank details we used were not theirs.,Security incident
+SYN-0007,Urgent!!!,,Other / Unclear
+SYN-0008,How do I book a meeting room?,Question: what is the process for booking a room in the London office?,General request
+SYN-0009,Help,"Something is wrong, please look.",Other / Unclear
+SYN-0010,Can't reach the office systems,From home I cannot reach any of the interanl sites since yesterday.,Network / VPN
+SYN-0011,Found a USB stick,"Found a USB stick in the car park, plugged it into my laptop and now it behaves strangely.",Security incident
+SYN-0012,MFA not working,The authenticator app shows a code but the CRM rejects it every time.,Access / Password
+SYN-0013,Not receiving anything,People say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0014,Won't switch on,"My machine will not turn on this morning, no lights at all.",Hardware
+SYN-0015,Call from the bank,A caller said they were from our bank and asked me to read out the code from my authenticator app.,Security incident
+SYN-0016,Outlook calendar not syncing,My shared mailbox calendar invites are not showing up.,Email / Calendar
+SYN-0017,VPN keeps dropping,The VPN disconnects every few minutes when I work from home.,Network / VPN
+SYN-0018,No wifi in room 9,Wifi in meeting room 7 says connected but pages never load.,Network / VPN
+SYN-0019,Install Power BI,Please install Adobe Reader on my machine. No rush.,Software / Application
+SYN-0020,Remote work policy question,Would like to know what equipment I can clami for working from home.,General request
+SYN-0021,Outlook calendar not syncing,My shared mailbox calendar invites are not showing up.,Email / Calendar
+SYN-0022,Spreadsheet takes ages,Zoom takes several minutes to open my usual files.,Software / Application
+SYN-0023,Virus definitions update failed,The virus definitions update failed on my laptop. Could you check the update?,Software / Application
+SYN-0024,VPN keeps dropping,The VPN disconnects every few minutes when I work from home.,Network / VPN
+SYN-0025,Whole team locked out,"The whole team is locked out of the intranet, urgent.",Access / Password
+SYN-0026,Not receiving anything,People say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0027,Monitor flickering,The monitor at my desk flickers every few seconds.,Hardware
+SYN-0028,Nothing loads,"Pages hang forever at my desk, colleagues nearby seem fine.",Network / VPN
+SYN-0029,Slack crashes,Visio crashes every time I try to expotr a file.,Software / Application
+SYN-0030,Nothing loads,"Pages hang forever at my desk, colleagues nearby seem fine.",Network / VPN
+SYN-0031,Can't reach the office systems,From home I cannot reach any of the internal sites since yesterday.,Network / VPN
+SYN-0032,Mailbox full,My mailbox is full and I can't receive new mail.,Email / Calendar
+SYN-0033,Nothing loads,"Pages hang forever at my desk, colleagues nearby seem fine.",Network / VPN
+SYN-0034,New starter blocked,Just joined the team and the shared folder says I am not allowed in.,Access / Password
+SYN-0035,VPN keeps dropping,The VPN disconnects every few minutes when I work from home.,Network / VPN
+SYN-0036,Need a tool,I need something to edit PDFs for a project next week.,Software / Application
+SYN-0037,Urgent!!!,,Other / Unclear
+SYN-0038,Password reset needed,"Forgot my password for the Jira, can you reset it please?",Access / Password
+SYN-0039,Outlook crashes,Outlook crashes on launch and shows an error with my mailbox.,Email / Calendar
+SYN-0040,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0041,Access denied on Jira,Since this morning I get 'access denied' on the expenses portal.,Access / Password
+SYN-0042,Found a USB stick,"Found a USB stick in the car park, plugged it into my laptop and now it behaves strangely.",Security incident
+SYN-0043,Laptop and password,My laptop screen is cracked and I also forgot my password.,Hardware
+SYN-0044,Outlook calendar not syncing,My shared malibox calendar invites are not showing up.,Email / Calendar
+SYN-0045,Printer offline,The printer on floor 8 shows offline for evreyone near me.,Hardware
+SYN-0046,Locked out of my account,I typed the wrong password too many times and now my account is locked.,Access / Password
+SYN-0047,Unauthorized login alert,I got an alert for an unauthorized login to my account from another country.,Security incident
+SYN-0048,Laptop battery drains fast,My laptop battery lasts under an hour and the charger gets very hot.,Hardware
+SYN-0049,Request for training,Is there any training available on the CRM?,General request
+SYN-0050,Whole team locked out,"The whole team is locked out of the expenses portal, urgent.",Access / Password
+SYN-0051,Odd message from IT,Got a text from 'IT' asking me to confirm my credentials on a page. I typed them in before realising.,Security incident
+SYN-0052,Issue,It happened again.,Other / Unclear
+SYN-0053,Urgent!!!,,Other / Unclear
+SYN-0054,Not receiving anything,People say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0055,No wifi in room 3,Wifi in meeting room 5 says connected but pages never load.,Network / VPN
+SYN-0056,Outlook crashes,Otulook crashes on launch and shows an error with my mailbox.,Email / Calendar
+SYN-0057,Printer offline,The printer on floor 2 shosw offline for everyone near me.,Hardware
+SYN-0058,Laptop and password,My laptop screen is cracked and I also forgot my password.,Hardware
+SYN-0059,Won't switch on,"My machine will not turn on this morning, no lights at all.",Hardware
+SYN-0060,How do I book a meeting room?,Question: what is the process for booking a room in the Lagos office?,General request
+SYN-0061,Access to breach response runbook,Please can I get access to the breach response runbook for the on-call rota?,Access / Password
+SYN-0062,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0063,Power BI crashes,Zoom crashes eveyr time I try to export a file.,Software / Application
+SYN-0064,Monitor flickering,The moniotr at my desk flickers every few seconds.,Hardware
+SYN-0065,Password reset needed,"Forgot my password for the SharePoint, can you reset it please?",Access / Password
+SYN-0066,Missing email attachments,Attachments in my inbox show as empty files.,Email / Calendar
+SYN-0067,Keyboard keys stuck,Several keys on my keyboard are stuck.,Hardware
+SYN-0068,Think I was hacked,"I think my account was hacked, my password stopped working and emails went out.",Security incident
+SYN-0069,Request for training,Is there any training available on the Teams?,General request
+SYN-0070,Phishing email,I received a phishing email pretending to be HR and I clicked the link.,Security incident
+SYN-0071,Printer offline,The printer on floor 6 shows offline for everyone near me.,Hardware
+SYN-0072,Malware warning,My laptop shows a malware warning and files are being renamed.,Security incident
+SYN-0073,MFA not working,The authenticator app shwos a code but the SharePoint rejects it every time.,Access / Password
+SYN-0074,Everyone cannot connect,"Everyone in the Dubai office cannot connect to the VPN, it is an outage.",Network / VPN
+SYN-0075,Outlook calendar not syncing,My shared mailbox calendar invites are not showing up.,Email / Calendar
+SYN-0076,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0077,Keyboard keys stuck,Several keys on my keyboard are stuck.,Hardware
+SYN-0078,Adobe Reader crashes,Zoom crashes every time I try to export a file.,Software / Application
+SYN-0079,How do I book a meeting room?,Question: what is the process for booking a room in the Singapore office?,General request
+SYN-0080,Printer offline,The printer on floor 5 shows offline for everyone near me.,Hardware
+SYN-0081,How do I book a meeting room?,Question: what is the process for booking a room in the Singapore office?,General request
+SYN-0082,Invoice looked off,I paid an invoice today but the supplier says the bank details we used were not theirs.,Security incident
+SYN-0083,Virus definitions update failed,The virus definitions update failed on my laptop. Could you check the update?,Software / Application
+SYN-0084,Chrome crashes,Visio crashes every time I try to export a file.,Software / Application
+SYN-0085,Outlook calendar not syncing,My shared mailbox calendar ivnites are not showing up.,Email / Calendar
+SYN-0086,DNS error,I get a DNS error on every site from the Singapore office.,Network / VPN
+SYN-0087,Phishing email,I received a phishing email pretending to be HR and I clicked the link.,Security incident
+SYN-0088,Access to breach response runbook,Please can I get access to the breach response runbook for the on-call rota?,Access / Password
+SYN-0089,Malware warning,My laptop shows a malware warning and files are being renamed.,Security incident
+SYN-0090,Spreadsheet takes ages,Excel tkaes several minutes to open my usual files.,Software / Application
+SYN-0091,Call from the bank,A caller said they were from our bank and asked me to read out the code from my authenticator app.,Security incident
+SYN-0092,Thrown out of SharePoint,Every time I open the Teams it sends me back to the start page.,Access / Password
+SYN-0093,Printer offline,The printer on floor 4 shows offline for everyone near me.,Hardware
+SYN-0094,Remote work policy question,Would like to know what equipment I can claim for working from home.,General request
+SYN-0095,VPN keeps dropping,The VPN disconnects every few minutes when I work from home.,Network / VPN
+SYN-0096,Licence expired for Visio,"My licence for Slack expired this week, how can I renew it?",Software / Application
+SYN-0097,Can't reach the office systems,From home I cannot reach any of the internal sites since yesterday.,Network / VPN
+SYN-0098,DNS error,I get a DNS error on every site from the Lagos office.,Network / VPN
+SYN-0099,Thrown out of Teams,Every time I open the payroll system it sends me back to the start page.,Access / Password
+SYN-0100,Whole team locked out,"The whole team is locked out of the intranet, urgent.",Access / Password
+SYN-0101,Password reset needed,"Forgto my password for the payroll system, can you reset it please?",Access / Password
+SYN-0102,MFA not working,The authenticator app shows a code but the Jira rejects it every time.,Access / Password
+SYN-0103,Locked out of my account,I typed the wrong password too many times and now my account is locked.,Access / Password
+SYN-0104,Access to breach response runbook,Please can I get access to the breach response runbook for the on-call rota?,Access / Password
+SYN-0105,Password reset needed,"Forgot my password for the intranet, can you reste it please?",Access / Password
+SYN-0106,MFA not working,The authenticator app shows a code but the SharePoint rejects it every time.,Access / Password
+SYN-0107,Unauthorized login alert,I got an alert for an unauthorized login to my account from antoher country.,Security incident
+SYN-0108,Issue,It happened again.,Other / Unclear
+SYN-0109,VPN keeps dropping,The VPN disconnects every few minutes when I work from home.,Network / VPN
+SYN-0110,Odd message from IT,Got a text from 'IT' asking me to confirm my credentials on a page. I typed them in before realising.,Security incident
+SYN-0111,New starter blocked,Just joined the team and the shared folder says I am not alolwed in.,Access / Password
+SYN-0112,Remote work policy question,Would like to know what equipment I can claim for working from home.,General request
+SYN-0113,Licence expired for Zoom,"My licence for Excel expired this week, how can I renwe it?",Software / Application
+SYN-0114,Password reset needed,"Forgot my password for the expenses portal, can you reset it please?",Access / Password
+SYN-0115,Unauthorized login alert,I got an alert for an unauthorized login to my account from another country.,Security incident
+SYN-0116,How do I book a meeting room?,Question: what is the process for booking a room in the Dubai office?,General request
+SYN-0117,Excel crashes,Chrome crashes every time I try to export a file.,Software / Application
+SYN-0118,Missing email attachments,Attachments in my inbox show as empty files.,Email / Calendar
+SYN-0119,Chrome crashes,Zoom crsahes every time I try to export a file.,Software / Application
+SYN-0120,Laptop battery drains fast,My laptop battery lasts under an hour and the charger gets very hot.,Hardware
+SYN-0121,Thrown out of CRM,Every time I open the Teams it sends me back to the start page.,Access / Password
+SYN-0122,Keyboard keys stuck,Several keys on my keyboard are stuck.,Hardware
+SYN-0123,Request for training,Is there any training available on the HR portal?,General request
+SYN-0124,Need a tool,I need something to edit PDFs for a project next week.,Software / Application
+SYN-0125,Licence expired for Zoom,"My licenec for Excel expired this week, how can I renew it?",Software / Application
+SYN-0126,Urgent!!!,,Other / Unclear
+SYN-0127,Messages I never wrote,My chat account sent messages to clients that I never wrote.,Security incident
+SYN-0128,Printer offline,The printer on floor 8 shows offline for everyone near me.,Hardware
+SYN-0129,Outlook calendar not syncing,My shared mailbox calendar invites are not showing up.,Email / Calendar
+SYN-0130,Found a USB stick,"Found a USB stick in the car park, plugged it into my laptop and now it behaves strangely.",Security incident
+SYN-0131,Security awareness training,How do I enrol in the security awareness training? I couldn't find the link on the Jira.,General request
+SYN-0132,Laptop and password,My laptop screen is cracked and I also forgot my password.,Hardware
+SYN-0133,Nothing loads,"Pages hang forever at my desk, colleagues nearby seem fine.",Network / VPN
+SYN-0134,Not receiving anything,People say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0135,DNS error,I get a DNS error on every site from the Lagso office.,Network / VPN
+SYN-0136,Nothing loads,"Pages hang forever at my desk, colleagues nearby seem fine.",Network / VPN
+SYN-0137,Access to breach response runbook,Please can I get access to the breach response runbook for the on-call rota?,Access / Password
+SYN-0138,How do I book a meeting room?,Question: what is the process for booking a room in the Lagos office?,General request
+SYN-0139,Remote work policy question,Woudl like to know what equipment I can claim for working from home.,General request
+SYN-0140,Licence expired for Visio,"My licence for Pwoer BI expired this week, how can I renew it?",Software / Application
+SYN-0141,Found a USB stick,"Found a USB stick in the car park, plugged it into my laptop and now it behaves strangely.",Security incident
+SYN-0142,Urgent!!!,,Other / Unclear
+SYN-0143,Malware warning,My laptop shows a malware warning and files are being renamed.,Security incident
+SYN-0144,No wifi in room 4,Wifi in meeting room 4 says connected but pages never load.,Network / VPN
+SYN-0145,Call from the bank,A caller said they were from our bank and asked me to read out the code from my authenticator app.,Security incident
+SYN-0146,Keyboard keys stuck,Several keys on my keyboard are stuck.,Hardware
+SYN-0147,Fan is deafening,The fan in my machine is incredilby loud and it feels hot.,Hardware
+SYN-0148,Printer offline,The printer on floor 3 shows offline for everyone near me.,Hardware
+SYN-0149,Thrown out of expenses portal,Every time I open the expenses portal it sends me back to the start page.,Access / Password
+SYN-0150,How do I book a meeting room?,Question: what is the process for booking a room in the Singapore office?,General request
+SYN-0151,Mailbox full,My mailbox is full and I can't receive new mail.,Email / Calendar
+SYN-0152,Remote work policy question,Would like to know what equipment I can claim for working from home.,General request
+SYN-0153,Remote work policy question,Would like to know what equipment I can claim for working from home.,General request
+SYN-0154,VPN keeps dropping,The VPN disconnects every few minutes when I work from home.,Network / VPN
+SYN-0155,Phishing email,I receivde a phishing email pretending to be HR and I clicked the link.,Security incident
+SYN-0156,Issue,It happened again.,Other / Unclear
+SYN-0157,Security awareness training,How do I enrol in the security awareness training? I couldn't find the link on the CRM.,General request
+SYN-0158,Thrown out of Teams,Every time I open the intranet it sends me back to the start page.,Access / Password
+SYN-0159,Won't switch on,"My machine will not turn on this morning, no lights at all.",Hardware
+SYN-0160,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0161,Call from the bank,A caller said they were from our bank and asked me to read out the code from my authenticator app.,Security incident
+SYN-0162,Mailbox full,My mailbox is full and I can't receive new mail.,Email / Calendar
+SYN-0163,Missing email attachments,Attachments in my inbox show as empty files.,Email / Calendar
+SYN-0164,Password reset needed,"Forgot my password for the Teams, can you reset it please?",Access / Password
+SYN-0165,Help,"Something is wrong, please look.",Other / Unclear
+SYN-0166,Can't reach the office systems,From home I cannot reach any of the internal sites since yesterday.,Network / VPN
+SYN-0167,Can't reach the office systems,From home I cannot reach any of the internal sites since yesterday.,Network / VPN
+SYN-0168,Access denied on HR portal,Since this morning I get 'access denied' on the expenses portal.,Access / Password
+SYN-0169,Install Visio,Please install Adobe Reader on my machine. No rush.,Software / Application
+SYN-0170,How do I book a meeting room?,Question: what is the process for booking a room in the Singapore office?,General request
+SYN-0171,How do I book a meeting room?,Question: what is the process for booking a room in the London office?,General request
+SYN-0172,Locked out of my account,I typde the wrong password too many times and now my account is locked.,Access / Password
+SYN-0173,Issue,It happeend again.,Other / Unclear
+SYN-0174,Install Adobe Reader,Please install Slack on my machine. No rush.,Software / Application
+SYN-0175,Outlook crashes,Outlook crashes on launch and shows an error with my mailbox.,Email / Calendar
+SYN-0176,Won't switch on,"My machine will not turn on this morning, no lights at all.",Hardware
+SYN-0177,Everyone cannot connect,"Everyone in the Singapore office cannot connect to the VPN, it is an outage.",Network / VPN
+SYN-0178,Printer offline,The printer on floor 4 shows offline for everyone near me.,Hardware
+SYN-0179,Nothing loads,"Pages hang forever at my desk, cloleagues nearby seem fine.",Network / VPN
+SYN-0180,Need a tool,I need something to edit PDFs for a project next week.,Software / Application
+SYN-0181,Request for training,Is there any training available on the payroll system?,General request
+SYN-0182,Outlook crashes,Outlook crashes on laucnh and shows an error with my mailbox.,Email / Calendar
+SYN-0183,Invoice looked off,I paid an invoice today but the supplier says the bank details we used were not theirs.,Security incident
+SYN-0184,Install Power BI,Please install Chrmoe on my machine. No rush.,Software / Application
+SYN-0185,Urgent!!!,,Other / Unclear
+SYN-0186,Security awareness training,How do I enrol in the security awareness training? I couldn't find the link on the intranet.,General request
+SYN-0187,Messages I never wrote,My chat account sent messages to clients that I never wrote.,Security incident
+SYN-0188,Locked out of my account,I typed the wrong password too many times and now my account is locked.,Access / Password
+SYN-0189,Zoom crashes,Chrome crashes every time I try to expotr a file.,Software / Application
+SYN-0190,Unauthorized login alert,I got an alert for an unauthoriezd login to my account from another country.,Security incident
+SYN-0191,Everyone cannot connect,"Everyone in the London office cannot connect to the VPN, it is an outage.",Network / VPN
+SYN-0192,Keyboard keys stuck,Several keys on my keyboard are stuck.,Hardware
+SYN-0193,VPN keeps dropping,The VPN disconnects every few minutes when I work from home.,Network / VPN
+SYN-0194,No wifi in room 5,Wifi in meeting room 8 says connected but pages nveer load.,Network / VPN
+SYN-0195,Call from the bank,A caller said they were from our bank and asked me to read out the code from my authenticator app.,Security incident
+SYN-0196,MFA not working,The authenticator app shows a code but the payroll system rjeects it every time.,Access / Password
+SYN-0197,Outlook crashes,Outlook crashes on launch and shows an error with my mailbox.,Email / Calendar
+SYN-0198,Can't reach the office systems,From home I cannot reach any of the internal sites since yesterday.,Network / VPN
+SYN-0199,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0200,Request for training,Is there any training available on the CRM?,General request
+SYN-0201,Monitor flickering,The monitor at my desk flickers eevry few seconds.,Hardware
+SYN-0202,Not receiving anything,Peolpe say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0203,No wifi in room 7,Wifi in meeting room 6 says connected but pages never load.,Network / VPN
+SYN-0204,Nothing loads,"Pages hang forever at my desk, colleagues nearby seem fine.",Network / VPN
+SYN-0205,Power BI crashes,Zoom crashes every time I try to export a file.,Software / Application
+SYN-0206,Odd message from IT,Got a text from 'IT' asking me to confirm my credentials on a page. I typed them in before realising.,Security incident
+SYN-0207,Monitor flickering,The moniotr at my desk flickers every few seconds.,Hardware
+SYN-0208,Request for training,Is there any training available on the SharePoint?,General request
+SYN-0209,Request for training,Is there any training available on the HR portal?,General request
+SYN-0210,Issue,It happened again.,Other / Unclear
+SYN-0211,Mailbox full,My mailbox is full and I can't receive new mail.,Email / Calendar
+SYN-0212,Not receiving anything,People say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0213,Thrown out of expenses portal,Every time I open the SharePoint it sends me back to the start page.,Access / Password
+SYN-0214,Remote work policy question,Would like to know what equipment I can claim for working from home.,General request
+SYN-0215,Install Adobe Reader,Please install Adobe Reader on my machine. No rush.,Software / Application
+SYN-0216,MFA not working,The authenticator app shows a code but the CRM rejects it every time.,Access / Password
+SYN-0217,Issue,It happened again.,Other / Unclear
+SYN-0218,Won't switch on,"My machine will not turn on this morning, no lights at all.",Hardware
+SYN-0219,Missing email attachments,Attachments in my inbox show as empty files.,Email / Calendar
+SYN-0220,Not receiving anything,People say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0221,Malware warning,My laptop shows a malware warning and files are being renamed.,Security incident
+SYN-0222,Outlook crashes,Outlook crashes on laucnh and shows an error with my mailbox.,Email / Calendar
+SYN-0223,No wifi in room 4,Wifi in meeting room 4 says connected but pages never load.,Network / VPN
+SYN-0224,Monitor flickering,The monitor at my desk flickers every few seconds.,Hardware
+SYN-0225,Everyone cannot connect,"Everyone in the Lagos office cannot connect to the VPN, it is an outage.",Network / VPN
+SYN-0226,Spreadsheet takes ages,Adobe Reader takes several minutes to open my usual files.,Software / Application
+SYN-0227,Outlook crashes,Outlook crashes on launch and shows an error with my mailbox.,Email / Calendar
+SYN-0228,Access denied on Teams,Sinec this morning I get 'access denied' on the intranet.,Access / Password
+SYN-0229,New starter blocked,Just joined the team and the shared folder says I am not allowed in.,Access / Password
+SYN-0230,Mailbox full,My mailbox is full and I can't receive new mail.,Email / Calendar
+SYN-0231,DNS error,I get a DNS error on eveyr site from the Dubai office.,Network / VPN
+SYN-0232,Remote work policy question,Would like to know what equipment I can claim for working from home.,General request
+SYN-0233,Spreadsheet takes ages,Excel takes several minutes to open my usual files.,Software / Application
+SYN-0234,DNS error,I get a DNS error on eevry site from the Lagos office.,Network / VPN
+SYN-0235,Invoice looked off,I paid an invoice today but the suppiler says the bank details we used were not theirs.,Security incident
+SYN-0236,Keyboard keys stuck,Several keys on my keyboard are stuck.,Hardware
+SYN-0237,Outlook crashes,Outlook crashes on launch and shows an error with my mailbox.,Email / Calendar
+SYN-0238,Outlook crashes,Outlook crashes on launch and shows an error with my mailbox.,Email / Calendar
+SYN-0239,Access denied on Jira,Since this morning I get 'access denied' on the SharePoint.,Access / Password
+SYN-0240,Install Adobe Reader,Please install Chrome on my machine. No rush.,Software / Application
+SYN-0241,Monitor flickering,The monitor at my desk flickers every few seconds.,Hardware
+SYN-0242,Locked out of my account,I typed the wrong password too many times and now my account is locked.,Access / Password
+SYN-0243,Install Chrome,Please install Visio on my machine. No rush.,Software / Application
+SYN-0244,Whole team locked out,"The whole team is locked out of the CRM, urgent.",Access / Password
+SYN-0245,Help,"Something is wrong, please look.",Other / Unclear
+SYN-0246,No wifi in room 5,Wifi in meeting room 7 says connected but pages never load.,Network / VPN
+SYN-0247,Password reset needed,"Forgot my password for the expenses portal, can you reset it please?",Access / Password
+SYN-0248,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0249,Mailbox full,My mailbox is full and I can't recieve new mail.,Email / Calendar
+SYN-0250,Won't switch on,"My machine will not turn on this morning, no lights at all.",Hardware
+SYN-0251,Outlook calendar not syncing,My shared mailbox calendar invites are not showing up.,Email / Calendar
+SYN-0252,Won't switch on,"My machine will not turn on this morning, no lights at all.",Hardware
+SYN-0253,Missing email attachments,Attachments in my inbox show as emtpy files.,Email / Calendar
+SYN-0254,Access to breach response runbook,Please can I get access to the breach response runbook for the on-call rota?,Access / Password
+SYN-0255,Laptop battery drains fast,My laptop battrey lasts under an hour and the charger gets very hot.,Hardware
+SYN-0256,Password reset needed,"Forgot my password for the HR portal, can you reset it please?",Access / Password
+SYN-0257,Thrown out of expenses portal,Every time I open the CRM it sends me back to the start page.,Access / Password
+SYN-0258,Everyone cannot connect,"Everyone in the Dubai office cannot connect to the VPN, it is an outage.",Network / VPN
+SYN-0259,No wifi in room 5,Wifi in meteing room 6 says connected but pages never load.,Network / VPN
+SYN-0260,Found a USB stick,"Found a USB stick in the car park, plugged it into my laptop and now it behaves strangely.",Security incident
+SYN-0261,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0262,Security awareness training,How do I enrol in the security awareness training? I couldn't find the link on the CRM.,General request
+SYN-0263,Thrown out of payroll system,Every time I open the CRM it sends me back to the start page.,Access / Password
+SYN-0264,Fan is deafening,The fan in my machine is incredibly loud and it feels hot.,Hardware
+SYN-0265,Request for training,Is there any training available on the Teams?,General request
+SYN-0266,Printer offline,The printer on floor 6 shows offline for everyone near me.,Hardware
+SYN-0267,Licence expired for Zoom,"My licence for Zoom expired this week, how can I renew it?",Software / Application
+SYN-0268,Outlook calendar not syncing,My shared mailbox calendar invites are not showing up.,Email / Calendar
+SYN-0269,Nothing loads,"Pages hang forever at my desk, colleagues nearby seem fine.",Network / VPN
+SYN-0270,Power BI crashes,Zoom crashes every time I try to export a file.,Software / Application
+SYN-0271,Not receiving anything,Poeple say they sent me documents yesterday but I have received nothing.,Email / Calendar
+SYN-0272,Laptop and password,My laptop screen is cracked and I also forgot my password.,Hardware
+SYN-0273,Mailbox full,My mailbox is full and I can't receive new mail.,Email / Calendar
+SYN-0274,Locked out of my account,I typed the wrong psasword too many times and now my account is locked.,Access / Password
+SYN-0275,No wifi in room 8,Wifi in meeting room 5 says connected but pages never load.,Network / VPN
+SYN-0276,Thrown out of payroll system,Every time I open the HR portal it sends me back to the start page.,Access / Password
+SYN-0277,Phishing email,I received a phishing email pretending to be HR and I clicked the link.,Security incident
+SYN-0278,Found a USB stick,"Found a USB stick in the car park, plugged it into my laptop and now it behaves strangely.",Security incident
+SYN-0279,Malware warning,My laptop shows a malware warning and files are being renamed.,Security incident
+SYN-0280,Virus definitions update failed,The virus definitions update failed on my laptop. Could you check the update?,Software / Application
